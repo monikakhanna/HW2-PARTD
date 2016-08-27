@@ -1,1 +1,2 @@
 B file
+B file new line in stashing branch
